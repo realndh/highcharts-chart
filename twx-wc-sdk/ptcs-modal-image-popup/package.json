@@ -1,0 +1,13 @@
+{
+  "description": "",
+  "homepage": "",
+  "name": "ptcs-modal-image-popup",
+  "version": "9.4.5-1665490901",
+  "main": "ptcs-modal-image-popup.js",
+  "license": "MIT",
+  "author": "Hasse Haitto <hhaitto@ptc.com>",
+  "dependencies": {
+    "ptcs-modal-overlay": "file:../ptcs-modal-overlay"
+  },
+  "devDependencies": {}
+}

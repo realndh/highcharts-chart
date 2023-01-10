@@ -1,0 +1,9 @@
+{
+  "description": "",
+  "homepage": "",
+  "name": "ptcs-behavior-styleable",
+  "version": "9.4.5-1665490901",
+  "main": "ptcs-behavior-styleable.js",
+  "license": "MIT",
+  "author": "Magnus Tobiasson <mtobiasson@ptc.com>"
+}
